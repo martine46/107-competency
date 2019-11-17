@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: lightslategrey;
+}
+
+.btn-container{
+    text-align: center;
+}
+
+.hide{
+    display: none;
+}
+
+.item-saved h6{
+    background-color: green;
+    border: 1px solid rgb(66, 170, 109);
+}
+
+.col-7{
+    border-right: 1px solid #d8d8d8;
+
+}
+
+#messageList{
+    list-style-type:none;
+    padding-left:5px;
+}
+
+#messageList Li{
+    margin: 5px 0px;
+    background-color: #fafafa;
+    border: 1px solid #f0f0f0;
+    padding: 3px 8px;
+
+}
+
+#messageList Li:hover{
+    font-weight: bold;
+    border: 1px solid lightslategray;
+}
